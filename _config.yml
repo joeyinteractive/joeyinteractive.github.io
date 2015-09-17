@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://joeyinteractive.github.io
+title: Joeyinteractive
+email: joeyinteractive@me.com
+author: Joey
+description: I’m a design & coffee junkie! Thankfully I’m paid to practice my obsessions. Well, at least one of them. I’ve spent the last decade crafting interactive experiences for Disney.
+paginate: 3
+google_analytics: 
